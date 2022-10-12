@@ -23,7 +23,7 @@ url: "https://30year.drachenwald.sca.org" # the base hostname & protocol for you
 # github_username:  jekyll
 
 github:
-  repository_url: https://github.com/drachenwald/dw30
+  repository_url: https://github.com/drachenwald/dw-30-year
 
 
 # Build settings
