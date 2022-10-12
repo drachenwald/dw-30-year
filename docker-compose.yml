@@ -6,4 +6,4 @@ services:
     - "127.0.0.1:4000:4000"
     volumes:
     - .:/build
-    command: bash -c "bundle install ; bundle exec jekyll serve  --watch --host 0.0.0.0"
+    command: bash -c "bundle update --bundler; bundle install ; bundle exec jekyll serve  --watch --host 0.0.0.0"
