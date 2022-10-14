@@ -10,6 +10,11 @@ subtitle: Netherlands, 14-18 June 2023
   </p>
 </div>
 
+<div class="text-center">
+  <a href="https://fb.me/e/1Cry9NmyE" class="btn btn-primary shadow"><i class="fa-brands fa-square-facebook"></i> Follow the event on Facebook</a>
+</div>
+
+<br />
 <br />
 
 <div class="card-group shadow">
@@ -48,6 +53,33 @@ subtitle: Netherlands, 14-18 June 2023
 
 <br />
 
-<div class="text-center">
-  <a href="https://fb.me/e/1Cry9NmyE" class="btn btn-primary"><i class="fa-brands fa-square-facebook"></i> Follow the event on Facebook</a>
+{% assign numposts = site.posts | size %}
+{% if numposts > 0 %}
+
+<br />
+<div class="container">
+  <div class="text-center">
+    <h2>Latest news</h2>
+  </div>
+  <br />
+  <div class="list-group shadow">
+    {% for post in site.posts limit:5 %}
+        <a href="{{ post.url }}" class="list-group-item list-group-item-action">
+          <h3>{{ post.title }}</h3>
+          <p>
+            <i class="text-muted">{{ post.date | date: "%-d %b %Y" }}</i>
+            {{ post.excerpt }}
+          </p>
+          
+        </a>
+    {% endfor %}
+  </div>
+  <br />
+  <div class="text-center">
+    <p>
+      <a href="{% link news/index.html %}" class="btn btn-primary shadow">More news...</a>
+    </p>
+  </div>
 </div>
+
+{% endif %}
