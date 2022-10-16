@@ -2,7 +2,7 @@
 title: Accommodation
 ---
 
-The site has ample accommodation for all of us, with many options for providing comfort and suiting a budget. There are 58 beds in dorms, or bedrooms that don't have a private bathroom. There are a further 101 beds in en suite rooms that sleep 3-5 people. And there are 84 beds in double rooms, also with en suite. This is a level of options and luxury that we don't usually get at our events.
+The site has ample accommodation for all of us, with many options for providing comfort and suiting a budget. There are 58 beds in dorms, or bedrooms that don't have a private bathroom. There are a further 101 beds in en suite rooms that sleep 3-5 people, and there are 84 beds in double rooms, also with en suite. This is a level of options and luxury that we don't usually get at our events.
 
 Information on pricing and how to book these rooms will be available in the coming weeks.
 
