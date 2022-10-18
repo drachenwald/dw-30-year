@@ -7,19 +7,19 @@ The site has ample accommodation for all of us, with many options for providing 
 Information on pricing and how to book these rooms will be available in the coming weeks.
 
 <div class="text-center">
-  <img src="/images/bedroom1.jpg" width="500" class="rounded" alt="A dorm room with multiple beds and a couch">
+  <img src="./bedroom1.jpg" width="500" class="rounded" alt="A dorm room with multiple beds and a couch">
 </div>
 
 <br />
 
 <div class="text-center">
-  <img src="/images/bedroom2.jpg" width="500" class="rounded" alt="A dorm room with a bunk bed and single beds">
+  <img src="./bedroom2.jpg" width="500" class="rounded" alt="A dorm room with a bunk bed and single beds">
 </div>
 
 <br />
 
 <div class="text-center">
-  <img src="/images/bedroom3.jpg" width="500" class="rounded" alt="A luxury room with double bed, table and chairs">
+  <img src="./bedroom3.jpg" width="500" class="rounded" alt="A luxury room with double bed, table and chairs">
 </div>
 
 <br />
