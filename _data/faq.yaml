@@ -1,0 +1,7 @@
+faq:
+  - q: question 1
+    a: answer 1
+  - q: question 2
+    a: "answer 2<br />goes here"
+  - q: question 3
+    a: answer 3
