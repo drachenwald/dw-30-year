@@ -2,19 +2,25 @@
 title: News
 ---
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date"><em>{{ post.date | date: "%-d %b %Y" }}</em></span>
-  </p>
-  <div class="content">
-    {{ post.content }}
+<div class="container">
+  <div class="">
+    {% for post in paginator.posts %}
+        <div class="card p-2 m-4">
+          <h3>{{ post.title }}</h3>
+          <p>
+            {{ post.excerpt }}
+          </p>
+          <div class="text-end">
+            <a role="button" class="btn btn-outline-primary stretched-link" href="{{ post.url }}">Read "{{ post.title }}"</a>
+          </div>
+          
+        </div>
+    {% endfor %}
   </div>
-{% endfor %}
+</div>
 
-<!-- Pagination links -->
-<div class="pagination">
+
+<div class="text-center mt-3">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous btn btn-primary">
       Previous
@@ -31,3 +37,4 @@ title: News
     <span class="next btn btn-primary disabled">Next</span>
   {% endif %}
 </div>
+

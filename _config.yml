@@ -57,7 +57,7 @@ sass:
 
 permalink: pretty
 
-paginate: 5
+paginate: 10
 paginate_path: "/news/page:num"
 
 defaults:
