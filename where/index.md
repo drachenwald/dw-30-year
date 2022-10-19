@@ -65,7 +65,7 @@ Amsterdam: 135 min.
 
 ### Accessibility
 
-The site is on even ground with all buildings and activity areas fairly close together, with many paved walkways.  The main building with all bedrooms and activity rooms has lifts/elevators to each floor, and the hallways and doors are wide enough to accommodate wheelchairs.  Dining areas are on the ground floor and are accessible by wheelchair.  Most rooms have their own private/ensuite toilet and shower, and the public bathrooms and showers at the site have wider accessible stalls available.  Low ramps are in place for easier entry into buildings that have steps.  Pets are not allowed but guide/service dogs are.  If you have any further accessibility questions or needs, please contact us at dw30year@gmail.com and we will assist.  A section regarding accessibility needs/requests will also be included on the reservation form.
+The site is on even ground with all buildings and activity areas fairly close together, with many paved walkways.  The main building with all bedrooms and activity rooms has lifts/elevators to each floor, and the hallways and doors are wide enough to accommodate wheelchairs.  Dining areas are on the ground floor and are accessible by wheelchair.  Most rooms have their own private/ensuite toilet and shower, and the public bathrooms and showers at the site have wider accessible stalls available.  Low ramps are in place for easier entry into buildings that have steps.  Pets are not allowed but guide/service dogs are.  If you have any further accessibility questions or needs, please contact us at [dw30year@gmail.com](mailto:dw30year@gmail.com) and we will assist.  A section regarding accessibility needs/requests will also be included on the reservation form.
 
 
 <div class="text-center">
