@@ -7,7 +7,7 @@ The Shire of Polderslot invites you to join us for a _four day long event_ at a 
 The event team are working to make this an unforgettable event, with a wide variety of activities such as armoured
 combat, fencing, archery, a market day, a ball, arts and sciences classes, courts, a tavern, and more besides.
 
-The event will take place as Kasteel de Berckt, located in the small town of Baarlo, just a few kilometers
+The event will take place at Kasteel de Berckt, located in the small town of Baarlo, just a few kilometers
 south of Venlo, on the Dutch-German border. With a mix of affordable and luxury accommodations, this will be
 one of the biggest SCA gatherings you can find this side of the Atlantic Ocean.
 
