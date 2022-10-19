@@ -2,7 +2,7 @@
 title: Polderslot welcomes you...
 ---
 
-The Shire of Polderslot invites you to join us for a _four day long event_ at a historic castle in Limburg, Netherlands to celebrate 30 years of the SCA in Europe!
+The Shire of Polderslot invites you to join us for a _four day long event_ at a historic castle in Limburg, Netherlands to celebrate 30 years since Drachenwald became the SCA's 13th Kingdom!
 
 The event team are working to make this an unforgettable event, with a wide variety of activities such as armoured
 combat, fencing, archery, a market day, a ball, arts and sciences classes, courts, a tavern, and more besides.
