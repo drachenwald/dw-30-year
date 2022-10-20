@@ -6,7 +6,18 @@ title: Registration & Pricing
 
 Registration will open on <strong>8 Dec 2022 at 19:30 CET</strong>.
 
-<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20221208T183000&p1=16&p2=78&p3=101&p4=179&p5=137" class="btn btn-primary">Convert to your timezone</a>
+<script>
+const regdate = new Date(Date.UTC(2022, 11, 8, 18, 30, 0));
+const timeoptions = {
+  dateStyle: 'medium',
+  timeStyle: 'medium'
+};
+const localdatestamp = new Intl.DateTimeFormat('default', timeoptions).format(regdate);
+const localtimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+document.write( '<p>That will be <strong>' + localdatestamp + '</strong> in your timezone of <strong>' + localtimezone + '</strong>.</p>' );
+</script>
+
+<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20221208T183000&p1=16&p2=78&p3=101&p4=179&p5=137" class="btn btn-primary">Convert to other timezones</a>
 
 A **25% deposit will be required** to secure your spot for the event.  After that, you may pay in whatever installments you wish, so long as the full balance has been received by **30 April 2023.**
 
