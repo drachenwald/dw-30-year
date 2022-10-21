@@ -113,7 +113,7 @@ Please note babies/children up to 2 years of age are free if camping or sleeping
     </tr>
     <tr>
       <td colspan="5" class="text-center pt-4">
-        <strong>Child 2-7 years old (per person, in site bed)</strong><br>
+        <strong>Child 2-7 years old (per person)</strong><br>
         <em>Add €5 for non-members</em>
       </td>
     </tr>
