@@ -6,6 +6,9 @@ top:
 - title: Registration
   url: /reg/
 
+- title: FAQ
+  url: /faq/
+
 - title: Accommodation
   url: /accom/
 

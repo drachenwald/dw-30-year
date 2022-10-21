@@ -1,6 +1,5 @@
 ---
 title: Frequently asked questions
-published: false
 ---
 
 {% for faq in site.data.faq.faq %}
@@ -8,7 +7,7 @@ published: false
 <div class="accordion" id="accordion-faq">
   <div class="accordion-item">
     <h2 class="accordion-header" id="header-{{ faq.q | slugify }}">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ faq.q | slugify }}" aria-expanded="true" aria-controls="collapse-{{ faq.q | slugify }}">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ faq.q | slugify }}" aria-controls="collapse-{{ faq.q | slugify }}">
         {{ faq.q }}
       </button>
     </h2>
