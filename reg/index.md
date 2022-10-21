@@ -21,7 +21,7 @@ document.write( '<p>That will be <strong>' + localdatestamp + '</strong> in your
 
 A **25% deposit will be required** to secure your spot for the event.  After that, you may pay in whatever installments you wish, so long as the full balance has been received by **30 April 2023.**
 
-Any cancellations received before 30 April 2023 will be refunded in full, while any cancellations received from 1 May 2023 onwards will not be refunded except in cases of illness or at the discretion of the event stewards. Requests for discretionary refunds will be evaluated/issued after the event.  
+Any cancellations received up to and including 30 April 2023 will be refunded in full, while any cancellations received from 1 May 2023 onwards will not be refunded except in cases of illness or at the discretion of the event stewards. Requests for discretionary refunds will be evaluated after the event.  
 
 ### Pricing
 
