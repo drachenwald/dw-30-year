@@ -39,6 +39,7 @@ Registration gets you access to the event and includes:
 The pricing in the table below is for **members of SCA Inc or an affiliate**.
 For non-member pricing, add €5 to the pricing below.
 This additional €5 is per person; paying it once covers you for the entire event.
+Please note babies/children up to 2 years of age are free if camping or sleeping in their own cot/bed.
 
 <table class="table">
   <tbody class="table-group-divider">
@@ -112,7 +113,7 @@ This additional €5 is per person; paying it once covers you for the entire eve
     </tr>
     <tr>
       <td colspan="5" class="text-center pt-4">
-        <strong>Child up to 7 years old (per person)</strong><br>
+        <strong>Child 2-7 years old (per person, in site bed)</strong><br>
         <em>Add €5 for non-members</em>
       </td>
     </tr>
