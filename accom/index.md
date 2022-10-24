@@ -2,7 +2,7 @@
 title: Accommodation
 ---
 
-The site has ample accommodation for all of us, with many options for providing comfort and suiting a budget. There are 58 beds in dorms, or bedrooms that don't have a private bathroom. There are a further 101 beds in rooms that sleep 3 to 5 people, with ensuite/private bathrooms with showers, and there are 84 beds in double rooms, also with en suite/private toilets/showers. Bedding and towels are provided at no additional charge for all attendees who reserve a bed, whether in dorm, small room, or double room- this is a level of options and luxury that we don't usually get at our events and we're happy to offer for 30 Year!
+The site has ample accommodation for all of us, with many options for providing comfort and suiting a budget. There are 55 beds in dorms, or bedrooms that don't have a private bathroom. There are a further 109 beds in rooms that sleep 3 to 5 people, with ensuite/private bathrooms with showers, and there are 80 beds in double rooms, also with en suite/private toilets/showers. Bedding and towels are provided at no additional charge for all attendees who reserve a bed, whether in dorm, small room, or double room- this is a level of options and luxury that we don't usually get at our events and we're happy to offer for 30 Year!
 
 Information on pricing and how to book these rooms will be available in the coming weeks.
 
