@@ -170,7 +170,7 @@ Please note babies/children up to 2 years of age are free if camping or sleeping
 </table>
 
 <div class="text-center m-5">
-  <a href="/" class="btn btn-primary">How did we choose these prices?</a>
+  <a href="{% post_url 2022-10-20-pricing %}" class="btn btn-primary">How did we choose these prices?</a>
 </div>
 
 ### Covid Policy
