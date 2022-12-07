@@ -4,7 +4,11 @@ title: Registration & Pricing
 
 ### Registration
 
-Registration will open on <strong>8 Dec 2022 at 19:30 CET</strong>.
+<div class="text-center">
+
+<p><a href="https://forms.gle/FL6aE2gKRKqskjZBA" class="btn btn-primary"><i class="fa-solid fa-clipboard-user"></i> Book here</a></p>
+
+<p>Registration will open on <strong>8 Dec 2022 at 19:30 CET</strong>.</p>
 
 <script>
 const regdate = new Date(Date.UTC(2022, 11, 8, 18, 30, 0));
@@ -17,7 +21,9 @@ const localtimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 document.write( '<p>That will be <strong>' + localdatestamp + '</strong> in your timezone of <strong>' + localtimezone + '</strong>.</p>' );
 </script>
 
-<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20221208T183000&p1=16&p2=78&p3=101&p4=179&p5=137" class="btn btn-primary">Convert to other timezones</a>
+<p><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20221208T183000&p1=16&p2=78&p3=101&p4=179&p5=137" class="btn btn-secondary">Convert to other timezones</a></p>
+
+</div>
 
 A **25% deposit will be required** to secure your spot for the event.  After that, you may pay in whatever installments you wish, so long as the full balance has been received by **30 April 2023.**
 
@@ -27,7 +33,9 @@ Any cancellations received up to and including 30 April 2023 will be refunded in
 
 This event is a little different to our usual, and so our pricing is different too. We've written about the thinking behind this.
 
-<a href="{% post_url 2022-10-20-pricing %}" class="btn btn-primary">How our pricing works</a>
+<div class="text-center">
+<a href="{% post_url 2022-10-20-pricing %}" class="btn btn-secondary">How our pricing works</a>
+</div>
 
 Registration gets you access to the event and includes:
 
@@ -170,7 +178,7 @@ Please note babies/children up to 2 years of age are free if camping or sleeping
 </table>
 
 <div class="text-center m-5">
-  <a href="{% post_url 2022-10-20-pricing %}" class="btn btn-primary">How did we choose these prices?</a>
+  <a href="{% post_url 2022-10-20-pricing %}" class="btn btn-secondary">How did we choose these prices?</a>
 </div>
 
 ### Covid Policy
