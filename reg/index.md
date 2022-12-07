@@ -8,7 +8,7 @@ title: Registration & Pricing
 
 <p><a href="https://forms.gle/FL6aE2gKRKqskjZBA" class="btn btn-primary"><i class="fa-solid fa-clipboard-user"></i> Book here</a></p>
 
-<p>Registration will open on <strong>8 Dec 2022 at 19:30 CET</strong>.</p>
+<p>Registration opens on <strong>8 Dec 2022 at 19:30 CET</strong>.</p>
 
 <script>
 const regdate = new Date(Date.UTC(2022, 11, 8, 18, 30, 0));
@@ -18,7 +18,7 @@ const timeoptions = {
 };
 const localdatestamp = new Intl.DateTimeFormat('default', timeoptions).format(regdate);
 const localtimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-document.write( '<p>That will be <strong>' + localdatestamp + '</strong> in your timezone of <strong>' + localtimezone + '</strong>.</p>' );
+document.write( '<p>That is <strong>' + localdatestamp + '</strong> in your timezone of <strong>' + localtimezone + '</strong>.</p>' );
 </script>
 
 <p><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20221208T183000&p1=16&p2=78&p3=101&p4=179&p5=137" class="btn btn-secondary">Convert to other timezones</a></p>
