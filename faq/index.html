@@ -2,9 +2,10 @@
 title: Frequently asked questions
 ---
 
+<div class="accordion" id="accordion-faq">
+
 {% for faq in site.data.faq.faq %}
 
-<div class="accordion" id="accordion-faq">
   <div class="accordion-item">
     <h2 class="accordion-header" id="header-{{ faq.q | slugify }}">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ faq.q | slugify }}" aria-controls="collapse-{{ faq.q | slugify }}">
@@ -17,9 +18,10 @@ title: Frequently asked questions
       </div>
     </div>
   </div>
-</div>
 
 {% endfor %}
+
+</div>
 
 <br />
 
