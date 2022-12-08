@@ -7,7 +7,7 @@ The site has ample accommodation for all of us, with many options for providing 
 For information on pricing and how to book these rooms, see our Registration page.
 
 <div class="text-center">
-  <a href="/" class="btn btn-primary">Registration &amp; pricing</a>
+  <a href="{% link reg/index.md %}" class="btn btn-primary">Registration &amp; pricing</a>
 </div>
 
 ### Accessibility
