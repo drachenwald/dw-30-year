@@ -4,7 +4,7 @@ title: Registration & Pricing
 
 ### Registration
 
-<div class="d-grid gap-2 col-6 mx-auto">
+<div class="d-grid gap-2 col-6 col-md-4 mx-auto my-3">
 
 <a href="https://forms.gle/FL6aE2gKRKqskjZBA" class="btn btn-primary"><i class="fa-solid fa-clipboard-user"></i> Book here</a>
 
