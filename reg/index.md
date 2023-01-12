@@ -12,14 +12,18 @@ title: Registration & Pricing
 
 A **25% deposit will be required** to secure your spot for the event.  After that, you may pay in whatever installments you wish, so long as the full balance has been received by **30 April 2023.** Reservations will be confirmed **in order of payment/deposit received**, not in order of filling in the form.
 
-Any cancellations received up to and including 30 April 2023 will be refunded in full, while any cancellations received from 1 May 2023 onwards will not be refunded except in cases of illness or at the discretion of the event stewards. Requests for discretionary refunds will be evaluated after the event.  
+Any cancellations received up to and including 30 April 2023 will be refunded in full, while any cancellations received from 1 May 2023 onwards will not be refunded except in cases of illness or at the discretion of the event stewards. Requests for discretionary refunds will be evaluated after the event.
+
+<div class="text-center">
+<a href="{% link reg/booked.md %}" class="btn btn-secondary my-2">Already booked</a>
+</div>
 
 ### Pricing
 
 This event is a little different to our usual, and so our pricing is different too. We've written about the thinking behind this.
 
 <div class="text-center">
-<a href="{% post_url 2022-10-20-pricing %}" class="btn btn-secondary">How our pricing works</a>
+<a href="{% post_url 2022-10-20-pricing %}" class="btn btn-secondary mb-3">How our pricing works</a>
 </div>
 
 Registration gets you access to the event and includes:
